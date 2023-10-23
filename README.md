@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/gazalaakhtarr" target="blank"><img src="https://img.shields.io/twitter/follow/gazalaakhtarr?logo=twitter&style=for-the-badge" alt="gazalaakhtarr" /></a> </p>
 
-- 🌱 I’m currently learning *Full stack development, frameworks !!*
+- 🌱 I’m currently learning *Full stack development and linux fundamentals !!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
